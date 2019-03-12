@@ -20,7 +20,7 @@ function Header() {
                         <a className="nav-link" href="#projects">Projects</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="https://medium.com/@mjadav">Blog</a>
+                        <a className="nav-link" href="https://medium.com/">Blog</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="#contact">Contact</a>

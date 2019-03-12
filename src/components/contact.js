@@ -10,11 +10,11 @@ function Contact() {
                     <h6 className="display-6">Let`s build something unique</h6>
                     <span className="animate-border mt-4 ml-auto mr-auto"></span>
                     <h5 className="display-6 mt-4">
-                        <a  style={{marginLeft: "5px"}} title="Github" href="https://github.com/mhjadav/mojaave" className="card-link text-black"><i className="fa fa-github" /></a>
-                        <a title="Twitter" href="https://twitter.com/mhjadav" className="card-link text-black"><i className="fa fa-twitter" /></a>
-                        <a title="Email" href="mailto:mj@mojaave.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
-                        <a title="Linkedin" href="https://www.linkedin.com/in/mhjadav/" className="card-link text-black"><i className="fa fa-linkedin" /></a>
-                        <a title="Skype" href="skype:mahipat2?chat" className="card-link text-black"><i className="fa fa-skype" /></a>
+                        <a  style={{marginLeft: "5px"}} title="Github" href="https://github.com/Sgoal2" className="card-link text-black"><i className="fa fa-github" /></a>
+                        <a title="Twitter" href="https://twitter.com/sagg227" className="card-link text-black"><i className="fa fa-twitter" /></a>
+                        <a title="Email" href="mailto:sgelb2@gmail.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
+                        <a title="Linkedin" href="https://www.linkedin.com/in/sagie-g/" className="card-link text-black"><i className="fa fa-linkedin" /></a>
+                        {/* <a title="Skype" href="skype:mahipat2?chat" className="card-link text-black"><i className="fa fa-skype" /></a> */}
                     </h5>
                 </div>
                 {/* <div className="row justify-content-center mt-5">
