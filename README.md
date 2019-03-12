@@ -1,10 +1,10 @@
-# https://sagieg.com/
+# https://mojaave.com
 [![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
 
 This is developed with ❤️ using [Bootstrap V4](https://getbootstrap.com/) & [Gatsby V2](https://www.gatsbyjs.org/) .  
 
 ## Live
-See it in action [here](https://sagieg.com/).
+See it in action [here](https://mojaave.com/).
 
 ## Lighthouse scores
 
@@ -14,7 +14,7 @@ See it in action [here](https://sagieg.com/).
 If you want to use this template
 ```
 Installation
-gatsby new gatsby-site https://github.com/Sgoal2/SG
+gatsby new gatsby-site https://github.com/mhjadav/mojaave
 ```
 ```
 Start Editing
@@ -43,20 +43,20 @@ module.exports = {
     name:"Mahipat Jadav",
     siteTitle: "Mahipat Jadav,Full stack developer,Javascript,ReactJs,India", // Site title.
     siteLogo: `${__dirname}/../src/static/images/mahipat.jpg`,
-    siteUrl: "https://sagieg.com/", // Domain of your website without pathPrefix.
-    siteKeyword:"sagie gelbhauer, full stack developer, javascript developer, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
+    siteUrl: "https://www.mojaave.com", // Domain of your website without pathPrefix.
+    siteKeyword:"mahipat Jadav, full stack developer, javascript developer, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
     siteDescription: "Full stack developer, I have designed and developed fast and responsive web applications using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby", // Website description used for RSS feeds/meta description tag.
     googleAnalyticsID: "", // GA tracking ID.
-    userName: "Sagie Gelbhauer", // Username to display in the author segment.
+    userName: "Mahipat Jadav", // Username to display in the author segment.
     userTwitter: "mhjadav", // Optionally renders "Follow Me" in the UserInfo segment.
-    userLocation: "NJ", // User location to display in the author segment.
+    userLocation: "Ahmedabad, Gujarat, India", // User location to display in the author segment.
     userAvatar: "../static/images/mahipat.jpg", // User avatar to display in the author segment.
     favicon32:`../static/images/mahipat32.jpg`,
     favicon16:`../static/images/mahipat16.jpg`,
     ogImage: `../static/images/mahipat250.jpg`,
     userDescription: "Full stack developer, I have designed and developed fast and responsive web applications using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby", // Website description used for RSS feeds/meta description tag.
-    userPhone:"732-551-7509",
-    userEmail:"sgelb@gmail.com",
+    userPhone:"+91-9898226919",
+    userEmail:"mj@mojaave.com",
     copyright: "Copyright © 2018. @mahipat", // Copyright string for the footer of the website and RSS feed.
     themeColor: "#5a76b9", // Used for setting manifest and progress theme colors.
     backgroundColor: "#fff" // Used for setting manifest background color.
