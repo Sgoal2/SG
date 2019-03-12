@@ -24,7 +24,7 @@ function Contact() {
                 </div>
                     <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                     <input type="hidden" name="bot-field" />
-                    <input id="username" name="emailto" type="hidden" value="mj@mojaave.com"/>
+                    <input id="username" name="emailto" type="hidden" value="sgelb2@gmail.com"/>
                     <div className="form-group">
                         <input type="email" className="form-control" id="txt-email" name="email" aria-describedby="emailHelp" placeholder="Enter email" required />
                     </div>
