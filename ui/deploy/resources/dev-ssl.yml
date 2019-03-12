@@ -1,3 +1,0 @@
-Type: "AWS::CertificateManager::Certificate"
-Properties:
-  DomainName: "dev.${self:custom.rootDomain}"

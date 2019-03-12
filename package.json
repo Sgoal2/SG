@@ -1,39 +1,43 @@
 {
-  "name": "danielhollcraft.com",
-  "version": "1.0.1",
-  "description": "Daniel Hollcraft's Website",
-  "main": "index.js",
+  "name": "mojaave",
+  "description": "Mahipat Jadav Portfolio",
+  "version": "1.0.0",
+  "author": "Mahipat Jadav <mj@mojaave.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby mojaave",
+    "mahipat portfolio"
+  ],
   "scripts": {
-    "setup": "cd ui && yarn && cd ../api && yarn",
-    "static:deploy:prod": "./ui/deploy/scripts/deploy_static_files.sh prod",
-    "static:destroy:prod": "./ui/deploy/scripts/delete_static_files.sh prod",
-    "static:destroy:local": "rm -rf ui/public",
-    "static:build": "cd ui && yarn build && cd ../..",
-    "static:build:deploy": "yarn static:build && yarn static:deploy:prod",
-    "ui:local": "cd ui && yarn develop",
-    "ui:deploy:prod": "cd ui && sls deploy -s prod && cd ..",
-    "api:deploy:prod": "cd api && sls deploy -s prod && cd ..",
-    "api:local": "cd api && sls offline && cd .."
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.33",
+    "gatsby-image": "^2.0.25",
+    "gatsby-plugin-google-analytics": "^2.0.8",
+    "gatsby-plugin-manifest": "^2.0.12",
+    "gatsby-plugin-offline": "^2.0.19",
+    "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-robots-txt": "^1.3.0",
+    "gatsby-plugin-sharp": "^2.0.15",
+    "gatsby-plugin-sitemap": "^2.0.3",
+    "gatsby-source-filesystem": "^2.0.12",
+    "gatsby-transformer-json": "^2.1.6",
+    "gatsby-transformer-sharp": "^2.1.9",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-helmet": "^5.2.0"
   },
   "devDependencies": {
-    "eslint": "^4.10.0",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jest": "^21.12.2",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.4.0"
+    "bootstrap": "^4.1.3",
+    "gatsby-plugin-purgecss": "^2.0.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielbh/danielhollcraft.com.git"
-  },
-  "author": "Daniel Hollcraft",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/danielbh/danielhollcraft.com/issues"
-  },
-  "homepage": "https://github.com/danielbh/danielhollcraft.com#readme",
-  "dependencies": {
-    "gatsby-plugin-favicon": "^2.1.1"
+    "url": "https://github.com/mhjadav/mojaave"
   }
 }
