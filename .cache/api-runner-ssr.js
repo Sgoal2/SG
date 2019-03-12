@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-115817837-3","head":true},
     },{
       plugin: require('/Users/sag/projects/SG/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Mahipat Jadav, Full stack developer, India","short_name":"Mahipat","start_url":"/","background_color":"#fff","theme_color":"#5a76b9","display":"standalone","icon":"/Users/sag/projects/SG/src/static/images/mahipat.jpg","icons":[{"src":"/images/mahipat48.jpg","sizes":"48x48","type":"image/jpg"},{"src":"/images/mahipat192.jpg","sizes":"192x192","type":"image/jpg"},{"src":"/images/mahipat512.jpg","sizes":"512x512","type":"image/jpg"}]},
+      options: {"plugins":[],"name":"Sagie Gelbhauer, Full stack developer, India","short_name":"Sagie","start_url":"/","background_color":"#fff","theme_color":"#5a76b9","display":"standalone","icon":"/Users/sag/projects/SG/src/static/images/mahipat.jpg","icons":[{"src":"/images/mahipat48.jpg","sizes":"48x48","type":"image/jpg"},{"src":"/images/mahipat192.jpg","sizes":"192x192","type":"image/jpg"},{"src":"/images/mahipat512.jpg","sizes":"512x512","type":"image/jpg"}]},
     },{
       plugin: require('/Users/sag/projects/SG/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
