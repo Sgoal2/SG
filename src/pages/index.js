@@ -29,7 +29,7 @@ export default () => {
       meta={[
         { name: "description", content: siteDescription },
         { property: "og:url", content: siteUrl },
-        { property: "og:image", content: "https://www.mojaave.com" + ogImage },
+        { property: "og:image", content: "https://sagieg.com/" + ogImage },
         { property: "og:title", content: siteTitle },
         { property: "og:type", content: "website" },
         { property: "og:description", content: siteDescription }
@@ -37,7 +37,7 @@ export default () => {
       link={[
         { rel: "icon", type: "image/png", sizes: "16x16", href: favicon16 },
         { rel: "icon", type: "image/png", sizes: "32x32", href: favicon32 },
-        { rel: "canonical", href: "https://www.mojaave.com" },
+        { rel: "canonical", href: "https://sagieg.com/" },
       ]}
       />
       <h1 hidden>
