@@ -1,8 +1,8 @@
 {
-  "name": "mojaave",
+  "name": "Sagie",
   "description": "Mahipat Jadav Portfolio",
   "version": "1.0.0",
-  "author": "Mahipat Jadav <mj@mojaave.com>",
+  "author": "Sagie Gelbhauer <sgelb@gmail.com>",
   "keywords": [
     "gatsby",
     "gatsby mojaave",
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mhjadav/mojaave"
+    "url": "https://github.com/Sgoal2/SG"
   }
 }
