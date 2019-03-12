@@ -11,7 +11,7 @@ function About() {
                     </div>
                     <blockquote className="blockquote">
                         <h5 className="card-text text-black">
-                            S <a href="#projects">Projects section</a>.
+                            I am Sagie <a href="#projects">Projects section</a>.
                         </h5>
                         {/* ince last 7 years, I have been working as full stack developer with companies in india, I have designed and developed reliable, fast, engaging & responsive websites, 
                             with strong focus on performance & responsive design using the latest technologies. check out in */}
