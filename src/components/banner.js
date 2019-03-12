@@ -34,9 +34,9 @@ export default () => (
                                     <div>
                                         <a title="Github" href="https://github.com/Sgoal2" className="card-link text-black"><i className="fa fa-github" /></a>
                                         <a title="Twitter" href="https://twitter.com/sagg227" className="card-link text-black"><i className="fa fa-twitter" /></a>
-                                        <a title="Email" href="mailto:mj@mojaave.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
-                                        <a title="Linkedin" href="https://www.linkedin.com/in/mhjadav/" className="card-link text-black"><i className="fa fa-linkedin" /></a>
-                                        <a title="Skype" href="skype:mahipat2?chat" className="card-link text-black"><i className="fa fa-skype" /></a>
+                                        <a title="Email" href="mailto:sgelb2@gmail.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
+                                        <a title="Linkedin" href="https://www.linkedin.com/in/sagie-g//" className="card-link text-black"><i className="fa fa-linkedin" /></a>
+                                        {/* <a title="Skype" href="skype:mahipat2?chat" className="card-link text-black"><i className="fa fa-skype" /></a> */}
                                     </div>
 
                                     </h4>
