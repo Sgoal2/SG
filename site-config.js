@@ -2,10 +2,10 @@
 
 module.exports = {
     name:"Mahipat",
-    siteTitle: "Mahipat Jadav, Full stack developer, India", // Site title.
+    siteTitle: "Sagie Gelbhauer, Full stack developer", // Site title.
     siteLogo: `${__dirname}/src/static/images/mahipat.jpg`,
-    siteUrl: "https://www.mojaave.com", // Domain of your website without pathPrefix.
-    siteKeyword:"mahipat Jadav, full stack developer in usa, freelancer in usa, javascript developer in usa, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
+    siteUrl: "https://www.sagieg.com", // Domain of your website without pathPrefix.
+    siteKeyword:"Sagie Gelbhauer, full stack developer in usa, freelancer in usa, javascript developer in usa, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
     siteDescription: "I'm Mahipat Jadav, Full stack developer, I'm working with clients from India and USA to build reliable, fast, engaging & responsive websites using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby, Angular, Typescript", // Website description used for RSS feeds/meta description tag.
     googleAnalyticsID: "UA-115817837-3", // GA tracking ID.
     userName: "Mahipat Jadav", // Username to display in the author segment.
@@ -15,7 +15,7 @@ module.exports = {
     favicon32:`../static/images/mahipat32.jpg`,
     favicon16:`../static/images/mahipat16.jpg`,
     ogImage: `../static/images/mahipat250.jpg`,
-    userDescription: "I'm Mahipat Jadav, Full stack developer, I'm working with clients from India and USA to build reliable, fast, engaging & responsive websites using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby, Angular, Typescript",
+    userDescription: "I'm Sagie Gelbhauer, Full stack developer, I'm working with clients from India and USA to build reliable, fast, engaging & responsive websites using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby, Angular, Typescript",
     userPhone:"+91-9898226919",
     userEmail:"mj@mojaave.com",
     skills:[
