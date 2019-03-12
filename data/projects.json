@@ -1,15 +1,15 @@
 [
     {
-        "name":"Plivo.com",
+        "name":"Trivializer App",
         "description": "The Plivo project is to migrate current Plivo website to new design, Plivo.com is built using Jekyll and cool Jekyll plugins like algolia search to search docs, compress layout to compress HTML etc, Jekyll uses markdown syntax to create docs and layout, To design a modern responsive website we have used Bootstrap and advance jquery plugins to add some flavor in UI.",
         "image": "images/plivo.png",
-        "link": "https://plivo.com"
+        "link": "https://trivializer.netlify.com/"
     },
     {
-        "name":"Pavan Industries",
+        "name":"Turbo Time USA",
         "description": "Today we are living in world of internet, Most of the people are connected to the internet by one or other way, so for any kind of business it's important to present online to increase customer base, For Pavan Industries, we have designed static site which is fast, simple, mobile friendly, we have used HTML/CSS/Javascript, Designed using Bootstrap.",
         "image": "images/packingwood.png",
-        "link": "https://packingwood.in"
+        "link": "turbotimeusa.com"
     },
     {
         "name":"Thairpysalonandspa.ca",

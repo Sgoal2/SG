@@ -24,10 +24,10 @@ export default () => (
                             <div className="card-body bg-warning about">
                                 <div className="row">
                                 <div className="col-md-3 col-xs-12 d-flex justify-content-center">
-                                    <Img  sizes={data.file.childImageSharp.sizes} src={data.file.childImageSharp.sizes.src}  className="shadow-lg p-2 photo" alt="Mahipat Jadav" />
+                                    <Img  sizes={data.file.childImageSharp.sizes} src={data.file.childImageSharp.sizes.src}  className="shadow-lg p-2 photo" alt="Sagie Gelbhauer" />
                                 </div>
                                 <div className="col-md-9 col-xs-12 about-text">
-                                    <h1 className="card-text text-black">Hi, I'm Mahipat Jadav</h1>
+                                    <h1 className="card-text text-black">Hi, I'm Sagie Gelbhauer</h1>
                                     <h4 className="card-text text-black">Full stack developer based in India</h4>
                                     <hr/>
                                     <h4>
