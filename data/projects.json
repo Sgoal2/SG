@@ -9,42 +9,6 @@
         "name":"Turbo Time USA",
         "description": "Today we are living in world of internet, Most of the people are connected to the internet by one or other way, so for any kind of business it's important to present online to increase customer base, For Pavan Industries, we have designed static site which is fast, simple, mobile friendly, we have used HTML/CSS/Javascript, Designed using Bootstrap.",
         "image": "images/packingwood.png",
-        "link": "turbotimeusa.com"
-    },
-    {
-        "name":"Thairpysalonandspa.ca",
-        "description": "Today we are living in world of internet, Most of the people are connected to the internet by one or other way, so for any kind of business it's important to present online to increase customer base, For Thairapy salon and spa, we have designed PWA(Progressive web application), which is fast, simple, mobile friendly and works offline(Using service worker), we have used ReactJS, Designed using custom Bootstrap style.",
-        "image": "images/thairpy.png",
-        "link": "https://thairpysalonandspa.com"
-    },
-    {
-        "name":"Nx digital And Optimus DM",
-        "description": "Every business in today's worlds required to be online and if the business is related to the internet then it's a must. Nx Digital wants a stylish website, which is also fast,  also they want their blog to be integrated on a website. So first things come in mind is GatsbyJS to generaged static site and designed using Bootstrap, We have used GatsbyJS because website build using Gatsbyjs is super fast as it's static generate pages and PWA(100% offline) and also allow to integrate any type of content.",
-        "image": "images/nxdigital.png",
-        "link": "https://nxdigital.com.au"
-    },
-    {
-        "name":"Cleartrip Pvt Ltd.",
-        "description": "This was my last job before I started working independently, I have spent around 1.5 years at Cleartrip, I really enjoyed my time at Cleartrip, made lots of life long friends, learned several latest technology like ReactJS and added some important features to their website, My job at Cleartrip is to handle hotels UI, some of the work I have done includes - Redo filters design, GST Integration, Hotel Shortlist, Optimize search page fast by prefetching data, Revamp details page, Pre-applied wallet balance.",
-        "image": "images/cleartrip.png",
-        "link": "https://cleartrip.com"
-    },
-    {
-        "name":"Hamilton Wireless",
-        "description": "Today we are living in world of internet, Most of the people are connected to the internet by one or other way, so for any kind of business it's important to present online to increase customer base, For Hamilton Wireless, we have designed PWA(Progressive web application), which is fast, simple, mobile friendly and works offline, we have used GatsbyJS(React based tool to build to static/fast/PWA web applications), Designed using Bootstrap.",
-        "image": "images/hamilton.png",
-        "link": "https://hamiltonwireless.ca"
-    },
-    {
-        "name":"Servicenow projects(Quodroid)",
-        "description": "I started working on servicenow around 6 months back, i have done a ton of work in the last 6 months and leanred some of the hot features of servicenow, servicenow uses little outdated ui tech stack(AngularJS), I work with Quodroid Technologies, Bangalore based startup, they have multiple clients like Patientrails, CareAR, UPMX(Nokia), Siemens etc., My job is to help them design ui and integrate servicenow backed on UI(Using AngularJS), also setup servicenow client scripts, ui scripts."
-    },
-    {
-        "name":"RPWS - web based video conferancing(Polycom)",
-        "description": "Polycom is my entry pass to world biggest IT hub(Bangalore), I have spent around 2 years at Polycom, And get in touch with some of great people over there and learned lots of important things from them, which help me grow professionally and personally, Polycom help me grow exponentially, My job is to handle UI for meeting portal and video portal, for video portal we were using AngularJS, meeting portal BackboneJS and backed using NodeJS, Use of these technologies helped me leaned fundamentals of UI Technology."
-    },
-    {
-        "name":"Theminimall (Alpine Health)",
-        "description": "Theminimall.com introduced me to the world of software, my first job(15-April 2012), Started my career with Microsoft technology, we were using .Net at that time, also introduces me to javascript(my bread and butter), we have built an E-Commerce platform, Where seller can create an account, add items and the buyer can order an item from any seller of choice. also get to some of the important things we need to build an E-Commerce website."
+        "link": "https://turbotimeusa.com/"
     }
 ]

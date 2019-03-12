@@ -28,11 +28,11 @@ export default () => (
                                 </div>
                                 <div className="col-md-9 col-xs-12 about-text">
                                     <h1 className="card-text text-black">Hi, I'm Sagie Gelbhauer</h1>
-                                    <h4 className="card-text text-black">Full stack developer based in India</h4>
+                                    <h4 className="card-text text-black">Full stack developer</h4>
                                     <hr/>
                                     <h4>
                                     <div>
-                                        <a title="Github" href="https://github.com/mhjadav/mojaave" className="card-link text-black"><i className="fa fa-github" /></a>
+                                        <a title="Github" href="https://github.com/Sgoal2" className="card-link text-black"><i className="fa fa-github" /></a>
                                         <a title="Twitter" href="https://twitter.com/mhjadav" className="card-link text-black"><i className="fa fa-twitter" /></a>
                                         <a title="Email" href="mailto:mj@mojaave.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
                                         <a title="Linkedin" href="https://www.linkedin.com/in/mhjadav/" className="card-link text-black"><i className="fa fa-linkedin" /></a>
