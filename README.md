@@ -40,8 +40,8 @@ gatsby develop
 - Add your details at data/site-config.js
 ```js
 module.exports = {
-    name:"Mahipat Jadav",
-    siteTitle: "Mahipat Jadav,Full stack developer,Javascript,ReactJs,India", // Site title.
+    name:"Sagie Gelbhauer",
+    siteTitle: "Sagie Gelbhauer,Full stack developer,Javascript,ReactJs", // Site title.
     siteLogo: `${__dirname}/../src/static/images/mahipat.jpg`,
     siteUrl: "https://sagieg.com/", // Domain of your website without pathPrefix.
     siteKeyword:"sagie gelbhauer, full stack developer, javascript developer, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
