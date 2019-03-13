@@ -53,7 +53,7 @@ export default () => {
         <Contact />
       </div>
       <h1 hidden>
-        software enginer, ui developer, build website, full stack developer, freelancer in india, font end developer in india, full stack developer in india, javascript developer, software engineer, web developer, react developer, reactjs developer, node developer, nodejs developer, graphql developer, angular developer, typescript developer, front end developer.
+        software enginer, ui developer, build website, full stack developer, font end developer in india, full stack developer in india, javascript developer, software engineer, web developer, react developer, reactjs developer, node developer, nodejs developer, graphql developer, angular developer, typescript developer, front end developer.
       </h1>
   </React.Fragment>)
 };
