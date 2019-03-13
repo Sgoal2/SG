@@ -17,7 +17,7 @@ module.exports = {
     ogImage: `../static/images/mahipat250.jpg`,
     userDescription: "I'm Sagie Gelbhauer, Full stack developer, I'm working with clients from India and USA to build reliable, fast, engaging & responsive websites using Javascript, ReactJS, Redux, NodeJs, GraphQl, Bootstrap, Gatsby, Angular, Typescript",
     userPhone:"732-551-7509",
-    userEmail:"sgelb@gmail.com",
+    userEmail:"sgelb2@gmail.com",
     skills:[
         {
             name:"Javascript",
