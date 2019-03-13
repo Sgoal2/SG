@@ -1,13 +1,13 @@
 [
     {
         "name":"Trivializer App",
-        "description": "The ",
+        "description": " A web app built to simplify the process of creating trivia games using React | Redux | Axios | Node | Express | Postgres | Stripe |React Router | Firebase | Knex",
         "image": "images/plivo.png",
         "link": "https://trivializer.netlify.com/"
     },
     {
         "name":"Turbo Time USA",
-        "description": "Today ",
+        "description": "E-Commerce website built using shopify and itegrated with amazon and ebay to manage intventory and sales.   ",
         "image": "images/packingwood.png",
         "link": "https://turbotimeusa.com/"
     }

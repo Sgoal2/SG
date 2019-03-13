@@ -6,5 +6,5 @@ exports.components = {
   "component---src-pages-index-js": () => import("/Users/sag/projects/SG/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */)
 }
 
-exports.data = () => import("/Users/sag/projects/SG/.cache/data.json")
+exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/sag/projects/SG/.cache/data.json")
 
