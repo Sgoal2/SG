@@ -1,12 +1,10 @@
 {
-  "name": "mojaave",
-  "description": "Mahipat Jadav Portfolio",
+  "name": "sg",
+  "description": "Sagie Gelbhauer Portfolio",
   "version": "1.0.0",
-  "author": "Mahipat Jadav <mj@mojaave.com>",
+  "author": "Sagie Gelbhauer <sgelb@gmail.com>",
   "keywords": [
-    "gatsby",
-    "gatsby mojaave",
-    "mahipat portfolio"
+    "gatsby"
   ],
   "scripts": {
     "start": "gatsby develop",
