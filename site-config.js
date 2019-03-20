@@ -55,7 +55,7 @@ module.exports = {
             position:"Software Enginer",
             company: "Company Pvt. Ltd.",
             current:true,
-            startDate: "March 2017",
+            startDate: "March 2018",
             endDate: "current",
             overview:"Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
         },
