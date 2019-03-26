@@ -65,7 +65,7 @@ module.exports = {
             current:false,
             startDate: "March 2017",
             endDate: "March 2017",
-            overview:"Lorem ipsum dolor sit . Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+            overview:"Lorem ipsum dolor sit . Praesentium magnam consectetur vel in deserunt  est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
         }
         
     ],
