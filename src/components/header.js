@@ -19,9 +19,9 @@ function Header() {
                     <li className="nav-item">
                         <a className="nav-link" href="#projects">Projects</a>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <a className="nav-link" href="https://medium.com/">Blog</a>
-                    </li>
+                    </li> */}
                     <li className="nav-item">
                         <a className="nav-link" href="#contact">Contact</a>
                     </li>
